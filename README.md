@@ -1,7 +1,7 @@
 ### Hello I'm Ibraaheem 👋
 
 ### 🚀 About Me:
-I'm a passionate developer in final year of university studying computer science. I'm currently focussing on my mobile development skills and dabbling in machine learning.
+I'm a developer in final year of university studying computer science. I'm currently focussing on mobile development and machine learning.
 
 🏠 [linkedin.com/IbraaheemRashid](https://www.linkedin.com/in/ibraaheem-rashid-09a81723a/) 
 📫 ibraaheemrashid@hotmail.com
