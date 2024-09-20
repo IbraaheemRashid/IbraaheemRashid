@@ -1,6 +1,6 @@
 Hi I'm Ibraaheem
 
-I'm a developer in final year of university studying computer science. I'm currently focussing on mobile development and machine learning.
+I'm a developer in my final year of university studying computer science. I'm currently focussing on mobile development and machine learning.
 
  [linkedin.com/IbraaheemRashid](https://www.linkedin.com/in/ibraaheem-rashid-09a81723a/)
  
