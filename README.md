@@ -1,13 +1,10 @@
-### Hello I'm Ibraaheem 👋
+Hi I'm Ibraaheem
 
-### 🚀 About Me:
 I'm a developer in final year of university studying computer science. I'm currently focussing on mobile development and machine learning.
 
-🏠 [linkedin.com/IbraaheemRashid](https://www.linkedin.com/in/ibraaheem-rashid-09a81723a/) 
-📫 ibraaheemrashid@hotmail.com
-
-### 🔭 I’m currently working on:
-[IbraaheemRashid/EducationalChatbot](https://github.com/IbraaheemRashid/EducationalChatbot)
+ [linkedin.com/IbraaheemRashid](https://www.linkedin.com/in/ibraaheem-rashid-09a81723a/)
+ 
+ ibraaheemrashid@hotmail.com
 
 <!--
 **IbraaheemRashid/IbraaheemRashid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
